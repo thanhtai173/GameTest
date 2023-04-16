@@ -1,2 +1,2 @@
 # GameDev
-Check github
+Just a readme file
